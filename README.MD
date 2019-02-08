@@ -1,5 +1,6 @@
 
-# Rashrc - Customized Bash for Higher Productivity
+# Rashrc
+The dot-file configuration, I use to setup my workstation.
 
 ## Features
 1. Shortcut commands
