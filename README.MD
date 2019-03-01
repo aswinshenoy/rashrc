@@ -1,10 +1,12 @@
 
-# Rashrc - Customized Bash for Higher Productivity
+# Rashrc
+The dot-file configuration, I use to setup my workstation.
 
 ## Features
-1. Shortcut Commands
-2. Colorful Bash
-3. Timestamp for each line
+1. Shortcut commands
+2. Git repository status indicator 
+3. Colorful bash
+4. Timestamp for each line
 
 ## How to Install?
 1. Clone the repository into the home folder.
